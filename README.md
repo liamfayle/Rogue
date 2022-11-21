@@ -3,7 +3,8 @@ Small object oriented java game based on [Rogue](https://en.wikipedia.org/wiki/R
 
 ## Gameplay
 
-https://user-images.githubusercontent.com/74878922/203170837-8673df73-c159-4630-ba7c-0a3aff5cd4a7.mp4
+
+https://user-images.githubusercontent.com/74878922/203170932-e335a779-c89c-44bc-b940-d08ed9a0c2da.mp4
 
 
 
