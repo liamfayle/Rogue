@@ -3,6 +3,10 @@ Small object oriented java game based on [Rogue](https://en.wikipedia.org/wiki/R
 
 ## Gameplay
 
+https://user-images.githubusercontent.com/74878922/203170837-8673df73-c159-4630-ba7c-0a3aff5cd4a7.mp4
+
+
+
 ## Compilation and Execution Instructions
 All development and testing was done using Java 11 on Windows 10.
 - Type "gradle build" to compile the program and run unit tests. 
