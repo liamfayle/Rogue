@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rogue.PlayerClassTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-21T21:44:51" hostname="DESKTOP-TJ502GR" time="0.011">
+  <properties/>
+  <testcase name="testGetNextDisplay_withMakeMove_PlayerPosition" classname="rogue.PlayerClassTests" time="0.01"/>
+  <testcase name="testName_GetterSetter" classname="rogue.PlayerClassTests" time="0.0"/>
+  <testcase name="testRoom_GetterSetter" classname="rogue.PlayerClassTests" time="0.0"/>
+  <testcase name="testLocation_GetterSetter" classname="rogue.PlayerClassTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

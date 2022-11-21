@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rogue.RoomClassTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-21T21:44:51" hostname="DESKTOP-TJ502GR" time="0.007">
+  <properties/>
+  <testcase name="testAddItem_ImpossiblePositionException" classname="rogue.RoomClassTests" time="0.001"/>
+  <testcase name="testId_GetterSetter" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testPlayer_GetterSetter" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testHeight_GetterSetter" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testIsPlayerInRoom_true" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testIsPlayerInRoom_false" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testIsRoomValid_false" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testAddItem_NoSuchItemException" classname="rogue.RoomClassTests" time="0.001"/>
+  <testcase name="testIsRoomValid_true" classname="rogue.RoomClassTests" time="0.001"/>
+  <testcase name="testRoomItems_GetterSetter" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testWidth_GetterSetter" classname="rogue.RoomClassTests" time="0.0"/>
+  <testcase name="testAddItem_CurrentRoomID" classname="rogue.RoomClassTests" time="0.003"/>
+  <system-out><![CDATA[rogue.Room@5acbe2ca
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

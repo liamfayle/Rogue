@@ -1,0 +1,48 @@
+{
+    "symbols": [{
+            "name": "PASSAGE",
+            "symbol": "#"
+        },
+        {
+            "name": "DOOR",
+            "symbol": "+"
+        },
+        {
+            "name": "FLOOR",
+            "symbol": "."
+        },
+        {
+            "name": "PLAYER",
+            "symbol": "@"
+        },
+        {
+            "name": "GOLD",
+            "symbol": "*"
+        },
+        {
+            "name": "NS_WALL",
+            "symbol": "-"
+        },
+        {
+            "name": "EW_WALL",
+            "symbol": "|"
+        },
+        {
+            "name": "POTION",
+            "symbol": "!"
+        },
+        {
+            "name": "SCROLL",
+            "symbol": "?"
+        },
+        {
+            "name": "ARMOR",
+            "symbol": "]"
+        },
+        {
+            "name": "FOOD",
+            "symbol": ":"
+        },
+
+    ]
+}

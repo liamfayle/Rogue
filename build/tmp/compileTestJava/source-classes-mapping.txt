@@ -1,0 +1,10 @@
+PlayerClassTests.java
+ rogue.PlayerClassTests
+RogueClassTests.java
+ rogue.RogueClassTests
+RoomClassTests.java
+ rogue.RoomClassTests
+ItemClassTests.java
+ rogue.ItemClassTests
+DoorClassTests.java
+ rogue.DoorClassTests
